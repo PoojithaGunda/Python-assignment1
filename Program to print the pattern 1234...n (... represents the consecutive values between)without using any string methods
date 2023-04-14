@@ -1,0 +1,12 @@
+# Reading input from STDIN
+n = int(input("Enter an integer: "))
+
+# Printing numbers separated by dots
+for i in range(1, n+1):
+    if i == n:
+        print(i, end="")
+    else:
+        print(i, end=".")
+     output:
+     enter an integer:4
+     1,2,3,4,5
