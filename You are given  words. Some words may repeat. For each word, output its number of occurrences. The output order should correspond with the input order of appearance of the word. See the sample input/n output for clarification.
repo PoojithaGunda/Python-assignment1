@@ -1,0 +1,17 @@
+ #Read input words as a list
+words = input("Enter the words separated by space: ").split()
+
+# Create a dictionary to store word occurrences
+word_occurrences = {}
+
+# Loop through the words and update the dictionary
+for word in words:
+    if word not in word_occurrences:
+        word_occurrences[word] = 0
+    word_occurrences[word] += 1
+
+# Print word occurrences in input order
+for word in words:
+    if word in word_occurrences:
+        print(word, word_occurrences[word])
+        del word_occurrences[word]
