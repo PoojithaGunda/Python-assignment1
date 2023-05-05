@@ -46,8 +46,8 @@ The century year is a leap year only if it is perfectly divisible by 400.
 
 
 10)# The first line contains the sum of the two numbers.
-# The second line contains the difference of the two numbers (first - second).
-# The third line contains the product of the two numbers.
+The second line contains the difference of the two numbers (first - second).
+The third line contains the product of the two numbers.
 we are reading the input from the user and passing the same into the funtion.
 
 
