@@ -1,5 +1,12 @@
-# Python-assignment1
-
+What is GitHub?
+GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. 
+What is git?
+Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+What is repository?
+A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
+Why do software engineers use GitHub?
+It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work.
+#Pythin assignment 1:
 1)This program explain about how to find out the floor division of two numbers:
 In Python, we can perform floor division (also sometimes known as integer division) using the // operator.
 This operator will divide the first argument by the second and round the result down to the nearest whole number, 
