@@ -1,20 +1,24 @@
-What is GitHub?
+What is Git?
 
-GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. 
+Git is an open-source distributed version control system. It is designed to handle minor to major projects with high speed and efficiency. It is developed to co-ordinate the work among the developers. The version control allows us to track and work together with our team members at the same workspace.
 
-What is git?
+What Is GitHub? 
 
-Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+GitHub is a for-profit company that offers a cloud-based Git repository hosting service. Essentially, it makes it a lot easier for individuals and teams to use Git for version control and collaboration. GitHub’s interface is user-friendly enough so even novice coders can take advantage of Git. Without GitHub, using Git generally requires a bit more technical savvy and use of the command line.
 
-What is repository?
+What Is Version Control?
 
-A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
+Version control helps developers track and manage changes to a software project’s code. As a software project grows, version control becomes essential. Take WordPress… At this point, WordPress is a pretty big project. If a core developer wanted to work on one specific part of the WordPress codebase, it wouldn’t be safe or efficient to have them directly edit the “official” source code. Instead, version control lets developers safely work through branching and merging.
 
-Why do software engineers use GitHub?
+What is Repository?
 
-It's used for storing, tracking, and collaborating on software projects. It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects. GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work.
+A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository. When you create a repository, you can choose to make the repository public or private. Repositories in organizations that use GitHub Enterprise Cloud and are owned by an enterprise account can also be created with internal visibility.
 
-#Pythin assignment 1:
+How are softwares are using github? 
+
+Git is used to tracking changes in the source code. The distributed version control tool is used for source code management. It allows multiple developers to work together. It supports non-linear development through its thousands of parallel branches.
+
+#Python assignment 1:
 
 
 1)This program explain about how to find out the floor division of two numbers:
